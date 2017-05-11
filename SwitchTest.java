@@ -1,6 +1,9 @@
 
 import java.util.Scanner;
-
+/**
+ * switch statement example
+ * @author Eyad AL-‘Amawi
+ */
 public class SwitchTest {
     public static void main(String[] args) {
 
