@@ -9,7 +9,7 @@ public class ColorTest {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("enter color name : ");
+        System.out.println("Enter color name : ");
 
         String ColorName = in.next().toLowerCase();
 
@@ -17,10 +17,10 @@ public class ColorTest {
             case "red":
             case "green":
             case "blue":
-                System.out.println("This is Main Color");
+                System.out.println("This from Main Colors");
                 break;
             default:
-                System.out.println("This is NOT Main Color");
+                System.out.println("This NOT from Main Colors");
 
         }
 
